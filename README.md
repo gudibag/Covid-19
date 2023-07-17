@@ -4,9 +4,12 @@ This repository contains an analysis of COVID-19 data using data visualization t
 
 Website link : https://ourworldindata.org/covid-deaths
 
+Tableau Dashboard : https://public.tableau.com/authoring/Covid-19Dashboard_16895992049370/Dashboard1#2
+
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Tools](#tools)
 - [Data Set](#data-set)
 - [Challenges Faced](#challenges-faced)
 - [Summary](#summary)
@@ -15,6 +18,14 @@ Website link : https://ourworldindata.org/covid-deaths
 ## Introduction
 
 The COVID-19 pandemic has had a significant impact on the world, affecting millions of people and various aspects of daily life. This project aims to analyze and visualize the COVID-19 data to gain insights into the spread and impact of the virus. By utilizing data visualization techniques, we can effectively communicate complex information and trends to facilitate better understanding.
+
+## Tools
+
+The tools used in this project are as follows:
+1. Google Big query
+2. BigQuerySQL
+3. Tableau
+4. Google docs
 
 ## Data Set
 
